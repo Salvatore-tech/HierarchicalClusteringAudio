@@ -18,5 +18,8 @@ The file is loaded in memory as a Pandas dataframe and the results shows that th
 inside the first cluster (visible in the histogram) and also there is a sign in the lower frequencies of the mel-spectrogram 
 related to the samples belonging to the first cluster.
 
+![spectrograms](output/mels_mfccs_for_cluster.png)
+![histogram](output/HistogramMfccWith3Clusters.png)
+
 ## Reference 
 https://www.kaggle.com/competitions/whale-detection-challenge/overview
